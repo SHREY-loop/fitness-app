@@ -22,7 +22,7 @@ A modern fitness tracking application with workout management, progress tracking
 
 ## 🚀 Live Demo
 
-View the live demo: [[Portfolio Link]/projects/fitness-app/](http://127.0.0.1:5500/projects/ecommerce-platform/)
+View the live demo: [[[Portfolio Link]/projects/fitness-app/](http://127.0.0.1:5500/projects/ecommerce-platform/)](http://127.0.0.1:5500/projects/fitness-app/index.html)
 
 ## 📸 Screenshots
 
